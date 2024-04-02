@@ -3,7 +3,6 @@
 # Licensed under the Apache License, Version 2.0
 # ---------------------------------------------------------------
 
-# SePiCo
 uda = dict(
     type='PPPC',
     alpha=0.999,

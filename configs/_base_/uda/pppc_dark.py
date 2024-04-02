@@ -3,7 +3,6 @@
 # Licensed under the Apache License, Version 2.0
 # ---------------------------------------------------------------
 
-# SePiCo Dark
 _base_ = ['pppc.py']
 uda = dict(
     type='PPPCDark',
