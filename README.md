@@ -69,7 +69,7 @@ Our trained model and config are available via [GTAV &rarr; Cityscapes](https://
 - Our submission and score log are available [here](https://drive.google.com/drive/folders/1__adce5xYsHuHZR5kQX9lgA03zdKDtiw?usp=sharing).
 
 ## Train
-**The core code, such as the loss function and prototype training, will be made public after the paper is accepted.**
+
 
 The detail of train configration is at 'experiments.py'.
 ```bash
