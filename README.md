@@ -78,7 +78,7 @@ python run_experiments.py --exp <exp_id>
 | `<exp_id>` | task    |
 |:----------:|:--------| 
 |    `1`     | GTAV &rarr; Cityscapes  |
-|    `2`     | Cityscapes &rarr; SYNTHIA  | 
+|    `2`     | SYNTHIA &rarr; Cityscapes  | 
 |    `3`     | Cityscapes &rarr; Dark Zurich | 
 
 ## Acknowledgments
